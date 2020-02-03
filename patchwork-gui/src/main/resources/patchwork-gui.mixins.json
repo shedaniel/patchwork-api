@@ -7,7 +7,10 @@
     "MixinGameRenderer",
     "MixinKeyboard",
     "MixinMouse",
-    "MixinScreen"
+    "MixinScreen",
+    "MA",
+    "MB",
+    "MC"
   ],
   "injectors": {
     "defaultRequire": 1
